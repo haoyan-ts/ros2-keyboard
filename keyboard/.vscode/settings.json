@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dobot/li/demo_ws/install/keyboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/dobot/li/dobot_V3_ws/install/servo_action/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_bringup_v3/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_msgs_v3/local/lib/python3.10/dist-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_moveit/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_demo/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dobot/li/demo_ws/install/keyboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/dobot/li/dobot_V3_ws/install/servo_action/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_bringup_v3/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_msgs_v3/local/lib/python3.10/dist-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_moveit/lib/python3.10/site-packages",
+        "/home/dobot/li/dobot_V3_ws/install/dobot_demo/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

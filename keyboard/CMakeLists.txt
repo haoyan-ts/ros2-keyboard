@@ -51,6 +51,13 @@ install(
     DESTINATION lib/${PROJECT_NAME}
 )
 
+
+install(
+    PROGRAMS
+        scripts/keyboard_to_text.py
+    DESTINATION lib/${PROJECT_NAME}
+)
+
 install(DIRECTORY config
   DESTINATION share/${PROJECT_NAME}
 )
